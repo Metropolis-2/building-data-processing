@@ -1,0 +1,5 @@
+*.zip
+
+initial_processing/*
+
+simplification/*
