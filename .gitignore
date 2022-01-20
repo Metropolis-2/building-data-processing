@@ -1,5 +1,5 @@
 *.zip
-
+*/cache/*
 initial_processing/*
 
-simplification/*
+simplification/data/*
