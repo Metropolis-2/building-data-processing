@@ -1,5 +1,6 @@
 *.zip
 */cache/*
-initial_processing/*
+initial_processing/data/*
+initial_processing/processed_vienna/*
 
 simplification/data/*
